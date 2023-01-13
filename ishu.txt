@@ -1,1 +1,2 @@
-I am Ishaan Puri, and I am learning git
+I am Ishaan Puri, and I am learning Git.
+Objective problems
